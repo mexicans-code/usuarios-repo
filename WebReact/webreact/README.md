@@ -1,0 +1,2 @@
+
+1.- Cumplir al 100% con lista para DE. 2.- Desarrollar el frontend completo del microservicio de Divisiones y sus programas educativos con React y Typescript. 3.- Actualizar su documento con pantallazos del código de cada desarrollador del equipo (del repositorio, commits, pullrequest, comentarios de revisión) 4.- Actualizar su documento con pantallazos de las pruebas de cada historia de usuario (funcionamiento enlazado con el backend)
